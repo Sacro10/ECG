@@ -1,0 +1,2 @@
+dataset,record_id,lead,sampling_rate_hz,evaluated_duration_s,tolerance_ms,tolerance_samples,reference_beats,detected_beats,matched_beats,missed_beats,extra_detections,precision,recall,estimated_heart_rate_bpm
+MIT-BIH Arrhythmia Database v1.0.0,100,MLII,360.0,1805.5555555555557,100.0,36,2273,2273,2273,0,0,1.0,1.0,75.51018210073626
